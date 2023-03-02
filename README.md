@@ -7,9 +7,11 @@
 
 - 💬 Ask me about **MERN-STACK**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ashfak-backer-680263251**
+-🔭 I’m currently working on  **OXFIT   https://github.com/ASHFAK-V-A/OXFIT-MERN-Project**
 
-- ⚡ Fun fact **Everything is a Funny**
+- 📫 How to reach me  **https://www.linkedin.com/in/ashfak-backer-680263251**
+
+- ⚡ Fun fact  **Developers Never Stop Learning**
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
