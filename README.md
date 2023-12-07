@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN-STACK**
 
--🔭 I’m currently working at  **Spider Works**
+
 
 - 📫 How to reach me  **https://www.linkedin.com/in/ashfak-backer-680263251**
 
